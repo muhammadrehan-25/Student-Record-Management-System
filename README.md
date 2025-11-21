@@ -2,7 +2,7 @@
 
 ## 🌟 Project Description
 
-This project is a desktop application developed as part of the **Project Based Learning (PBL)** assignment for **[Insert Your Course/College Name Here]**.
+This project is a desktop application developed as part of the **Project Based Learning (PBL)**.
 
 It provides a robust Graphical User Interface (GUI) tool to manage student records, including data entry, searching, and viewing of existing information.
 
@@ -46,5 +46,5 @@ To compile and run this project, you will need a C++ development environment tha
 
 This project was developed by:
 
-* **Name:** [Insert Your Full Name Here]
-* **ID/Roll Number:** [Insert Your Student ID Here]
+* **Name:** [Muhammad Rehan]
+* **ID/Roll Number:** [K25SW003]
