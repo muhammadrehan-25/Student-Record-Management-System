@@ -46,5 +46,5 @@ To compile and run this project, you will need a C++ development environment tha
 
 This project was developed by:
 
-* **Name:** [Muhammad Rehan]
-* **ID/Roll Number:** [K25SW003]
+* **Name:** Muhammad Rehan
+* **Roll Number:** K25SW003
