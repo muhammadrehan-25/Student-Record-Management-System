@@ -1,4 +1,4 @@
-# 📚 Student Management System (C++ & Qt)
+# 📚 Student Record Management System (C++ & Qt)
 
 ## 🌟 Project Description
 
