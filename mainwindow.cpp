@@ -4,13 +4,11 @@
 #include <QTextStream>
 #include <QMessageBox>
 #include <QRegularExpressionMatch>
-
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
-
     // Initial Button States
     ui->pushButtonAdd->setEnabled(true);
     ui->pushButtonUpdate->setEnabled(false);
@@ -50,11 +48,9 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-
 // ----------------------------------------------------
 // Helper Functions
 // ----------------------------------------------------
-
 void MainWindow::clearFields() {
     ui->lineEditName->clear();
     ui->lineEditRoll->clear();
